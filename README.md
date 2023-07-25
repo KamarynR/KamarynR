@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KamarynR
-- 👀 I’m interested in Front-end development
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning pyhton
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kamarynreeves@gmail.com
 
